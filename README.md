@@ -1,2 +1,4 @@
 # STOCKSTARTER-
-<img src="assets/logo.png" width="150">
+<p align="center">
+  <img src="./assets/logo.png" alt="Logo" width="150">
+</p>
