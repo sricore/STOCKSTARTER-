@@ -95,17 +95,26 @@ HERE'S AN SNAPSHOT OF THE WEBSITE
 </body>
 </html>
 
-## ⚖️ Legal Notice
-
 <p align="center">
-  <strong>Important:</strong> This website and all its content are protected under applicable intellectual property laws.
+  <a href="#">
+    <img src="https://img.shields.io/badge/⚖️-Legal%20Notice-blue?style=for-the-badge&logo=legal" alt="Legal Notice Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/👥-Team%20Rights-green?style=for-the-badge&logo=github" alt="Team Badge"/>
+  </a>
 </p>
 
-- All text, graphics, code, and design are the intellectual property of the website owner.  
-- Unauthorized copying, reproduction, modification, or misuse of any part of this website is strictly prohibited.  
-- By accessing this website, you agree to use it only for lawful and educational purposes.  
-- Any violation of these terms may lead to civil and/or criminal liability.
+<div style="border:2px solid #3b82f6; border-radius:12px; padding:15px; background:#f0f8ff; color:#111; max-width:700px; margin:auto;">
 
-<p align="center">
-  &copy; 2026 StockStarter. All rights reserved.
-</p>
+### ⚖️ Legal Notice
+This website and all content, including code, design, and graphics, are protected under intellectual property laws.  
+Unauthorized copying, reproduction, or misuse is strictly prohibited.
+
+### 👥 Team Rights
+**Team:** Binary Bond  
+**Members:** Srijani Sikder (Leader), Suvradip Dey  
+
+Credit must always be given to **Team Binary Bond**.  
+&copy; 2026 Team Binary Bond. All rights reserved.
+
+</div>
