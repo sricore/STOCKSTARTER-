@@ -28,7 +28,7 @@
 
 </div>
 
-https://sricore.github.io/stockstarter/
+[![Visit Live Site](https://img.shields.io/badge/Live-Website-blue)](https://sricore.github.io/)
 
 <div align="center">
 
