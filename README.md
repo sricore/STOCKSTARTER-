@@ -42,15 +42,6 @@ HERE'S AN SNAPSHOT OF THE WEBSITE
 
 ## 📸 Project Preview
 
-<p align="center">
-  <img src="images/screenshot.png1
-   " width="700">
-</p>
-## 📸 Project Preview
-
-<p align="center">
-  <img src="images/screenshot.png2" width="700">
-</p>
 
 ## How StockStarter Compares
 
