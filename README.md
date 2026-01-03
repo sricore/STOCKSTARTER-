@@ -60,6 +60,37 @@ HERE'S AN SNAPSHOT OF THE WEBSITE
 ✅ – Full feature | ⚠️ – Limited / Partial | ❌ – Not available | ⭐ – Special strength
 
 
+</head>
+<body>
 
+  <h2>Why Choose StockStarter?</h2>
 
+  <div class="grid">
+    <div class="box">
+      <div class="icon">🛡️</div>
+      <div class="title">Safe</div>
+    </div>
+    <div class="box">
+      <div class="icon">🌱</div>
+      <div class="title">Beginner</div>
+    </div>
+    <div class="box">
+      <div class="icon">📈</div>
+      <div class="title">Portfolio</div>
+    </div>
+    <div class="box">
+      <div class="icon">📊</div>
+      <div class="title">Insights</div>
+    </div>
+    <div class="box">
+      <div class="icon">⏱️</div>
+      <div class="title">Live</div>
+    </div>
+    <div class="box">
+      <div class="icon">💡</div>
+      <div class="title">Learn</div>
+    </div>
+  </div>
 
+</body>
+</html>
