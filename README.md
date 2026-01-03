@@ -25,4 +25,15 @@
 | 🏆 **Here’s the Ultimate Solution** |
 |-----------------------------------|
 
+
+</div>
+
+
+
+<div align="center">
+
+| 💡 Innovative | 🎯 Educational |
+|---------------|----------------|
+| 🔒 Safe       | 🚀 Beginner-Friendly |
+
 </div>
