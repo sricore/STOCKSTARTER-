@@ -37,3 +37,5 @@
 | 🔒 Safe       | 🚀 Beginner-Friendly |
 
 </div>
+
+HERE'S AN SNAPSHOT OF THE WEBSITE 
