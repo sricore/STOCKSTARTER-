@@ -94,3 +94,18 @@ HERE'S AN SNAPSHOT OF THE WEBSITE
 
 </body>
 </html>
+
+## ⚖️ Legal Notice
+
+<p align="center">
+  <strong>Important:</strong> This website and all its content are protected under applicable intellectual property laws.
+</p>
+
+- All text, graphics, code, and design are the intellectual property of the website owner.  
+- Unauthorized copying, reproduction, modification, or misuse of any part of this website is strictly prohibited.  
+- By accessing this website, you agree to use it only for lawful and educational purposes.  
+- Any violation of these terms may lead to civil and/or criminal liability.
+
+<p align="center">
+  &copy; 2026 StockStarter. All rights reserved.
+</p>
