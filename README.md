@@ -13,3 +13,16 @@
 ![🎓 Student--centric](https://img.shields.io/badge/🎓%20Student--centric-orange)
 
 </div>
+<div align="center">
+
+| Students want to learn stock market investing, but using real money is **risky**. StockStarter provides a **safe virtual platform** to practice investing and gain confidence without financial loss. |
+
+</div>
+
+
+<div align="center">
+
+| 🏆 **Here’s the Ultimate Solution** |
+|-----------------------------------|
+
+</div>
