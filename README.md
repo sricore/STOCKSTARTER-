@@ -1,7 +1,15 @@
    #         
-                     STOCKSTARTER
+             STOCKSTARTER
 <p align="center">
   <img src="./assets/logo.png" alt="Logo" width="150">
 </p>
-## Problem Statement
-Students want to learn investing but real money involves risk.
+
+<div align="center">
+
+![🧪 Virtual](https://img.shields.io/badge/🧪%20Virtual-blue)
+![📘 Educational](https://img.shields.io/badge/📘%20Educational-green)
+
+![🛡️ Risk--free](https://img.shields.io/badge/🛡️%20Risk--free-success)
+![🎓 Student--centric](https://img.shields.io/badge/🎓%20Student--centric-orange)
+
+</div>
