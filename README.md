@@ -1,5 +1,5 @@
    #         
-               STOCKSTARTER
+                 STOCKSTARTER
 <p align="center">
   <img src="./assets/images/README.md" alt="Logo" width="150">
 </p>
