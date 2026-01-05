@@ -1,7 +1,7 @@
    #         
                STOCKSTARTER
 <p align="center">
-  <img src="./assets/logo.png" alt="Logo" width="150">
+  <img src="./assets/images/README.md" alt="Logo" width="150">
 </p>
 
 <div align="center">
