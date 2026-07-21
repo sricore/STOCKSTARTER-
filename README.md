@@ -112,7 +112,7 @@ Unauthorized copying, reproduction, or misuse is strictly prohibited.
 
 ### 👥 Team Rights
 **Team:** Binary Bond  
-**Members:** Srijani Sikder (Leader), Suvradip Dey  
+**Members:** Srijani Sikder  
 
 Credit must always be given to **Team Binary Bond**.  
 &copy; 2026 Team Binary Bond. All rights reserved.
